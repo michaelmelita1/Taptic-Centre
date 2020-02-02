@@ -1,3 +1,5 @@
-# Custom Rose
+# TapticCentre
 
-Rose by Litten, but only the Control Center
+Produces Taptic Feedback when opening Control Centre
+
+Based on Rose by Litten.

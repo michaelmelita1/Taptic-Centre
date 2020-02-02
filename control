@@ -1,0 +1,9 @@
+Package: com.michaelmelita1.crose
+Name: Custom Rose
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Rose but it only does CC
+Maintainer: Michael Melita
+Author: Michael Melita
+Section: Tweaks

@@ -1,9 +1,9 @@
-Package: com.michaelmelita1.crose
-Name: Custom Rose
+Package: com.michaelmelita1.tapticcentre
+Name: Taptic Centre
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Rose but it only does CC
+Description: Taptic Feedback when openning Control Centre
 Maintainer: Michael Melita
 Author: Michael Melita
 Section: Tweaks

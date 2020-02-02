@@ -1,5 +1,4 @@
 #import <UIKit/UIKit.h>
-#import <AudioToolbox/AudioServices.h>
 NSString *tapticLevel = @"0";
 UIImpactFeedbackGenerator *gen;
 void prepareCustomFeedback() {

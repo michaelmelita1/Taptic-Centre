@@ -1,6 +1,13 @@
-# TapticCentre
+# Taptic Centre
 
 Produces Taptic Feedback when opening Control Centre
 
-Based on Rose by Litten;
-Find it here https://github.com/Litteeen/Rose
+## Compatibility
+
+iPhone 7 or later
+
+## Credits
+
+Thank you to Litten whose tweak Rose was used and modified.
+
+Source -  https://github.com/Litteeen/Rose

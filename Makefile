@@ -1,9 +1,9 @@
 ARCHS = arm64 arm64e
-TARGET = iphone:clang:13.2:13.2
+TARGET = iphone:clang:13.2
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = Taptic Centre
+TWEAK_NAME = TapticCentre
 $(TWEAK_NAME)_FILES = Tweak.x
 $(TWEAK_NAME)_CFLAGS += -fobjc-arc
 

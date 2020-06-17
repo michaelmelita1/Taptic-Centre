@@ -1,7 +1,7 @@
 Package: com.michaelmelita1.tapticcentre
 Name: TapticCentre
 Depends: mobilesubstrate
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
 Description: Taptic Feedback when opening Control Centre
 Maintainer: Michael Melita
